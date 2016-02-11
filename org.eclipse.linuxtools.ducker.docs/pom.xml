@@ -12,14 +12,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <artifactId>org.eclipse.linuxtools.docker</artifactId>
+    <artifactId>org.eclipse.linuxtools.ducker</artifactId>
     <groupId>org.eclipse.linuxtools</groupId>
     <version>2.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>org.eclipse.linuxtools.docker.docs</artifactId>
+  <artifactId>org.eclipse.linuxtools.ducker.docs</artifactId>
   <version>1.2.0-SNAPSHOT</version>
   <packaging>eclipse-plugin</packaging>
 
-  <name>Linux Tools Docker Tooling Documentation Plug-in</name>
+  <name>Linux Tools Ducker Tooling Documentation Plug-in</name>
 </project>

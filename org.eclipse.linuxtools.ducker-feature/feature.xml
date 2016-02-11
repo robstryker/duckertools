@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.eclipse.linuxtools.docker.feature"
+      id="org.eclipse.linuxtools.ducker.feature"
       label="%featureName"
       version="2.0.0.qualifier"
       provider-name="%featureProvider"
@@ -20,25 +20,25 @@
    </license>
 
    <url>
-      <update label="Linux Tools Docker Update Site" url="http://download.eclipse.org/linuxtools/update-docker"/>
+      <update label="Linux Tools Ducker Update Site" url="http://download.eclipse.org/linuxtools/update-ducker"/>
    </url>
 
    <plugin
-         id="org.eclipse.linuxtools.docker.core"
+         id="org.eclipse.linuxtools.ducker.core"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.linuxtools.docker.ui"
+         id="org.eclipse.linuxtools.ducker.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.linuxtools.docker.docs"
+         id="org.eclipse.linuxtools.ducker.docs"
          download-size="0"
          install-size="0"
          version="0.0.0"

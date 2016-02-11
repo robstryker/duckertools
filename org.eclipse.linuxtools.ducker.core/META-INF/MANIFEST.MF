@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Docker Core Plugin
-Bundle-SymbolicName: org.eclipse.linuxtools.docker.core
+Bundle-Name: Ducker Core Plugin
+Bundle-SymbolicName: org.eclipse.linuxtools.ducker.core
 Bundle-Version: 2.0.0.qualifier
 Bundle-Activator: org.eclipse.linuxtools.docker.core.Activator
 Bundle-Vendor: Eclipse Linux Tools
